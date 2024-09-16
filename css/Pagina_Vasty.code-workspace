@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/Pagina_Vasty"
+		},
+		{
+			"path": "../../Vasty_Pagina"
+		},
+		{
+			"path": "../../../Desktop/Vasty_Diaz"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PaginaColegio_VastyDiaz"
+	}
+}
